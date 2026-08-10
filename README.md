@@ -64,8 +64,8 @@ A modular, reusable dialogue system for story-driven games — designed for easy
 ---
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> What I'm Up To
-- 🎮 Polishing my 2D platformer character controller — refining wall detection, animator sync, and movement feel  
-- 📚 Learning more about 2D/3D development and advanced game programming
+- 🎮Enrolled in Gaming academy 6 and Working on a roguelike game with a team of 5 people 
+- 📚 Learning more about Software Engineering and System Design
 
 ---
 
